@@ -30,12 +30,13 @@ function handleRoute() {
 }
 
 // todo
-// - validate slide for choosen answer
-// - add styles from sheet
-// - add result button text from sheet
-// - set meta tags for specific quiz
 // - add facebook share button
 // - prepare bundle for production
-// - check hash on page load
-// - add loader while meta data is loading
-// - add first slide with quiz description
+// - add fb description for head with text only
+// + validate slide for choosen answer
+// + add styles from sheet
+// + add result button text from sheet
+// + set meta tags for specific quiz
+// + check hash on page load
+// + add loader while meta data is loading
+// + add first slide with quiz description
